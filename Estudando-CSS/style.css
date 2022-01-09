@@ -1,0 +1,37 @@
+/*Comentando algumas propriedades do CSS*/
+
+
+/* O elemento body é um exemplo de seletor, no qual precisamos para chamar as propriedades
+ e valores que darão estilo às nossas páginas(sites,blogs e etc)*/
+
+body {
+    /*As margens são espaçamentos entre elementos*/
+    margin: auto;
+    /*Bordas*/
+    border: blue;
+    /*O padding é um espaçamento entre as bordas e o conteúdo, a diferença para as margens 
+    é que declarações de imagens de fundo funcionam nele.*/
+    padding: auto;
+    /*É o que seu bloco representa, um texto, uma imagem, um vídeo*/
+    content: normal;
+    /*Com o font-family podemos alterar as fontes dos nossos textos, 
+    como uma fonte da internet ou uma que esteja instalada no nosso computador,
+    mas vamos nos ater as fontes seguras, chamadas de Web Safe Fonts.*/
+    font-family: verdana;
+    /*Altera o tamanho do texto*/
+    font-size: 10px;
+    /*Altera o estilo do texto*/
+    font-style: normal;
+    /*Altera o peso do texto; Ex.:bold = Negrito.*/
+    font-weight: bold;
+    /*Transforma o texto em maiúsculo ou minúsculo*/
+    text-transform: uppercase;
+    /*Dá destaque ao texto*/
+    text-decoration: blue;
+    /*Largura*/
+    width: auto;
+    /*Altura*/
+    height: auto;
+    /*Alinha o texto*/
+    text-align: justify;
+}
