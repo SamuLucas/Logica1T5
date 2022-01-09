@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title_dicas {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 80px;
+    margin: 30px;
+    text-align: center;
+}
+
+.title_ideias {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 30px;
+    text-align: center;
+}
+
+.Dicas {
+    margin: 30px;
+    font-size: 16px;
+}
+
+.Dicas li {
+    margin: 20px;
+}
+
+.ideias {
+    margin: 30px;
+    font-size: 16px;
+}
+
+.ideias li {
+    margin: 20px;
+}
+
+.secao_dicas {
+    border: 5px solid blue;
+    background-color: khaki;
+    margin: 30px;
+}
+
+.secao_ideias {
+    border: 5px solid blue;
+    background-color: lightgreen;
+    margin: 30px;
+}
+
+footer {
+    border: 5px solid blue;
+    margin: 30px;
+    background-color: palegoldenrod;
+}
+
+h4 {
+    line-height: 30px;
+    margin: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.lista_rodape {
+    list-style: none;
+    margin: 30px;
+    font-size: 16px;
+}
+
+.lista_rodape li {
+    margin: 20px;
+}
+
+.lista_rodape li a {
+    text-decoration: none;
+}
